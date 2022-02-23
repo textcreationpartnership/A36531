@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dreadful news from Southwark, or, A Most true relation how one Margaret Simpson widow, together with Elizabeth Griffin an infant of about a year and an half old, were wonderfully struck dead with a thunderbolt in ship-yard in Kent-Street on Munday the 4th of this instant August between two and three of the clock in the afternoon the said Margaret Simpson having but just before used many oaths and execrations on herself about paying a farthing, which 'tis believ'd was false : with the miraculous manner how the thunderbolt entred and no place to be found where it should pass out, nor wound found on either of the said parties kill'd.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36531</idno>
+            <idno type="STC">Wing D2153</idno>
+            <idno type="STC">ESTC R28594</idno>
+            <idno type="EEBO-CITATION">10685083</idno>
+            <idno type="OCLC">ocm 10685083</idno>
+            <idno type="VID">45496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dreadful news from Southwark, or, A Most true relation how one Margaret Simpson widow, together with Elizabeth Griffin an infant of about a year and an half old, were wonderfully struck dead with a thunderbolt in ship-yard in Kent-Street on Munday the 4th of this instant August between two and three of the clock in the afternoon the said Margaret Simpson having but just before used many oaths and execrations on herself about paying a farthing, which 'tis believ'd was false : with the miraculous manner how the thunderbolt entred and no place to be found where it should pass out, nor wound found on either of the said parties kill'd.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Simpson, Margaret, d. 1679?</term>
+               <term>Lightning --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:45496:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb n="1" facs="tcp:45496:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>Dreadful News FROM SOUTHWARK:</head>
+            <argument>
+               <head>OR, A moſt true RELATION</head>
+               <p>How one <hi>Margaret Simpſon</hi> Widow, together with <hi>Eli<g ref="char:EOLhyphen"/>zabeth Griffin</hi> an Infant of about a year and an half old, were wonderfully ſtruck Dead with a THUNDER-BOLT in <hi>Ship-yard</hi> in <hi>Kent-ſtreet,</hi> on <hi>Munday</hi> the 4th of this inſtant <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> between two and three of the Clock in the Afternoon: The ſaid <hi>Margaret Simpſon</hi> having but juſt before uſed many Oaths and Execrations on her ſelf, about paying a Farthing; which 'tis believ'd was falſe.</p>
+               <p>WITH The miraculous manner how the Thunder-bolt entred, and no place to be found where it ſhould paſs out, nor wound found on either of the ſaid Parties kill'd.</p>
+            </argument>
+            <p>UPon ſudden Accidents men commonly paſs ſudden Cenſures; and for want of delibe<g ref="char:EOLhyphen"/>rate and ſteady Aim, under or over-ſhoot the Mark, eſpecially that kind of Mark, which the moſt skilful hand, guided by the ſharpeſt Eye, can never certainly hit, ſcarce diſtinctly diſcern. Therefore of Gods Judgements, judiciouſly ſays St. <hi>Auſtin,</hi> and modeſtly, <hi>Judicia Dei nemo poteſt comprehendere, nemo certè reprehendere,</hi> No man can comprehend them, no man may reprehend them. The following Diſaſter is as ſtrange a thing as ſhall lightly happen in ſeveral Ages; and ſome Circumſtances give us reaſon to look upon it as a ſpecial and extraordinary Judgment for Sin, but ſecret
+<pb n="2" facs="tcp:45496:2"/>
+               <!-- PDF PAGE 20 -->things belong to God, to whom we refer it, the matter was thus.</p>
+            <p>In <hi>Ship-yard</hi> in <hi>Kent-ſtreet,</hi> there lived one <hi>Marga<g ref="char:EOLhyphen"/>ret Simpſon,</hi> a Widdow, a perſon of a very ill conver<g ref="char:EOLhyphen"/>ſation, as to turbulancy of ſpirit, Swearing, Drinking, <hi>&amp;c.</hi> and as ſhe ſeldome paſſed a day without ſome quar<g ref="char:EOLhyphen"/>rel or diſturbance with ſome of her Neighbours; ſo on Monday the Fourth inſtant, ſhe fell into a great paſſi<g ref="char:EOLhyphen"/>on with one of them, about a Farthing which the other demanded, and ſhe affirmed ſhe had paid; ſeconding the ſame with many horrid Oaths, Imprecations, and wiſhes of Judgments to fall upon her ſelf if it were not true. Though it is the moſt common belief of the Neigh<g ref="char:EOLhyphen"/>bours, and the other party doth ſtill firmly ſtand in it, that the ſame was falſe; and that notwithſtanding ſuch her deſperate expreſſions, ſhe had never paid it.</p>
+            <p>This ſtorm of paſſion being ſomewhat over, he went home, and being up one pair of ſtairs, where a man, his Wife and a Child living in the ſame houſe at that time were; ſhe ſat down, and took up the ſaid Child in her lap, being about a year and a half old; ſhe had not ſate long <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng her ſtory, but a conſiderable Tempeſt of Thunder and Lightning happened, and after three or fower Claps, there was heard one more near, and con<g ref="char:EOLhyphen"/>ſequently more loud than the reſt, in the midſt of which, on a ſudden, a Thunder-bolt (for ſo we muſt according to the uſual manner of expreſſion call it) came in near the Window, and in a moment ſtruck both the ſaid <hi>Margaret</hi> and the ſaid Child ſtark dead, ſo that neither the Woman ever ſpake word, nor was the Child heard to cry, or ſo much as groan afterwards.</p>
+            <p>It came in (as ſince by view of the place appears) through part of the Window frame, through which it had made a clever hole, but not above a quarter of an Inch over, or big enough to put in ones finger. On the outſide before it entred, it had garz'd along on the wall of the Houſe, being onely plaiſtered, and made an im<g ref="char:EOLhyphen"/>preſſion
+<pb n="3" facs="tcp:45496:2"/>
+               <!-- PDF PAGE 20 -->therein about a yard long, in a ſtrange man<g ref="char:EOLhyphen"/>ner, much as if it had been cut away by a broad Sword, then making its entry as aforeſaid, it likewiſe cut away a piece of the window ledge, about Three Inches broad, and then it ſhould ſeem did the fatal Execution on the Woman and Child who ſate near the window; but here it is wonderful to conſider the manner how it killed them, for neither of them have any wound about any part of their bodies, nor one drop of blood drawn, but both Woman and Child appeared to have received a ſtroke or blow, juſt much about the ſame place in either of them, that is to ſay, on the left Eye-brow, where there is to be ſeen a black bruiſe, of about the breadth and circumference of a ſhilling, but the skin not at all broken, nor the leaſt ſymptomes of hurt in any other part.</p>
+            <p>This diſaſter happened ſo ſuddenly, that the Father and Mother of the Child, though both in the ſame room at that inſtant, yet neither of them perceived any hurt done, till the Woman was faln down, and running to inquire the matter, and help her up, found both her and their dear Infant ſtone dead; which terrible ſight ſo af<g ref="char:EOLhyphen"/>frighted the Mother, that ſhe hath ever ſince remained exceeding ill, and 'tis hardly believ'd will eſcape with her Life; but the man, though at firſt much aſtoniſht, is very well, and without any hurt: That which adds not a little to the ſtrangeneſs of this Accident, is, that though this Thunder bolt, or what elſe you will call it, did leave ſuch viſible Impreſſions, and make ſuch an hole where it came, and muſt be ſuppoſed to fall in a ſloping line, tending downwards; yet there is no place in the bords or walls of the Room, where it can be perceived to have gone forth, nor are there any marks to diſcover what ſhould become of it.</p>
+            <p>
+               <hi>Theſe ſtrange and ſudden Accidents ſnatching away ſinners in a moment into a dreadful Eternity, ſhould warn us all by a godly Converſation and getting an intereſt in
+<pb n="4" facs="tcp:45496:3"/>
+                  <!-- PDF PAGE 21 -->the Lord, Jeſus, to provide for our latter end, that by what means or how ſuddenly ſoever it ſhould happen, we may be prepared for it: But eſpecially it ſhould alarm all wicked and profane perſons inſtantly to amend their lives, and particularly to avoid all profane Swearing and Curſing; and above all, to keep themſelves from that abominable, though, alas too frequent cuſtom of uſing Im<g ref="char:EOLhyphen"/>precations, Curſes, and ill Wiſhes on themſelves, on tri<g ref="char:EOLhyphen"/>vial occaſions, and much more when they know the things they aſſert are falſe, leſt, like this poor Creature, they be by an immediate Judgment, puniſht by Divine Venge<g ref="char:EOLhyphen"/>ance, and in the very Act (as it were) of their Impiety, ſwept out of the world.</hi>
+            </p>
+            <p>The ingenious <hi>Du Bartas</hi> gives a notable Account of the Effects of Lightning; which ſeeming to give ſome light to this Narrative, I ſhall here inſert.</p>
+            <q>
+               <l>—Lightning of a Fume is fram'd,</l>
+               <l>Through'ts own hot drineſs evermore inflam'd;</l>
+               <l>Whoſe pow'r (paſt credit) without razing skin,</l>
+               <l>Can bruiſe to powder all our Bones within;</l>
+               <l>Can melt the Gold that greedy Miſers hoard</l>
+               <l>In cloſe-barr'd Coffers, and not burn the board.</l>
+               <l>Can break the Blade and never ſinge the ſheath;</l>
+               <l>Can ſcorch an Infant in the womb to death,</l>
+               <l>And never blemiſh in one ſort or other,</l>
+               <l>Fleſh, bone, or ſinew of th'amazed Mother.</l>
+               <l>Conſume the Shoes and never hurt the feet;</l>
+               <l>Empty a Cask and yet not periſh it, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45496:3"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </body>
+   </text>
+</TEI>
